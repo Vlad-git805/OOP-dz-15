@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\шаг\porga\ооп\dz\dz15\tree\tree\source.cpp(75): warning C4715: Tree<int,int>::Search: значение возвращается не при всех путях выполнения
+  tree.vcxproj -> D:\ШАГ\porga\ООП\dz\dz15\tree\Debug\tree.exe
